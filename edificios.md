@@ -1,3 +1,4 @@
 # EDIFICIOS
 
-Esta es una lista de todos los edificios de la universidad.
+1. Edificio A – Económico Administrativo.
+2. Edificio F – Tecnologías de la información.
