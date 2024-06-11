@@ -4,4 +4,4 @@
 2. CONTABILIDAD
 3. ENTORNOS VIRTUALES
 4. DISEÑO
-5. Carrera agregada desde Github
+5. Contabilidad
