@@ -1,5 +1,3 @@
-# Nota
+# Objetivo del proyecto
 
-1. Comandos de Git
-2. Manejo de Branch en Git
-3. Manejo de diff
+Este es proyecto es de pruebas
